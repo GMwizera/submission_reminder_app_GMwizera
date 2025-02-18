@@ -23,8 +23,8 @@ submission_reminder_{yourName}/
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/yourgithubusername/submission_reminder_app.git
-cd submission_reminder_app
+git clone https://github.com/GMwizera/submission_reminder_app_GMwizera.git
+cd submission_reminder_app_GMwizera
 ```
 
 ### 2. Run the Setup Script
@@ -45,15 +45,5 @@ cd submission_reminder_{yourName}
 ```
 This will execute the script and check the `submissions.txt` file for students who haven't submitted their assignments.
 
-## Additional Notes
-- Ensure that all scripts have execution permissions using:
-  ```sh
-  chmod +x app/reminder.sh modules/functions.sh startup.sh
-  ```
-- You can modify the `submissions.txt` file to add more student records.
-- The `config.env` file contains assignment details that can be updated as needed.
-
-## License
-This project is open-source and can be modified as needed.
 
 
