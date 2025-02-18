@@ -90,5 +90,3 @@ chmod +x $dir_name/app/reminder.sh $dir_name/modules/functions.sh $dir_name/star
 
 echo "Environment setup complete!"
 
-
-
