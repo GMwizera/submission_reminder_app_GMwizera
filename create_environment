@@ -88,7 +88,7 @@ EOF
 # Make all .sh scripts executable
 chmod +x $dir_name/app/reminder.sh $dir_name/modules/functions.sh $dir_name/startup.sh
 
-echo "Environment setup complete. Navigate to $dir_name and run ./startup.sh to test the application."
+echo "Environment setup complete!"
 
 
 
